@@ -9,6 +9,11 @@
 
 - ⚡ Fun fact **I'm single**
 
+<br>
+
+###
+<h3 align="center">🔥   My Stats :</h3>
+
 ###
 
 <div align="center">
@@ -19,10 +24,14 @@
 
 ###
 
+
 <img align="right" height="165" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21xbW1icnJnZ21hY2h2ZmtmeTAybW5tenpoeW5hdGp2amVra3NxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif"  />
 
 ###
 
+<h3 align="center"> 💻 Tech Stack ⚡ </h3>
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -96,7 +105,10 @@
 </div>
 
 ###
+<br>
+<h3 align="center">🌐 Connect with Me 🍬</h3>
 
+###
 <div align="left">
   <a href="https://discord.gg/timus999" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -123,11 +135,13 @@
 
 ###
 
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/timus999/timus999/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/31ldvdbtkczoztlg32inm36c65hi">
