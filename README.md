@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **timuskuwor@gmail.com**
 
-- ⚡ Fun fact **I'm single**
 
 <br>
 
