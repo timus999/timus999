@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A tech enthusiast driven by curiosity and innovation, I thrive at the intersection of cybersecurity, ethical hacking, problem solving, game development, and cutting-edge technologies like AI and blockchain.</h3>
 
-- 🔭 I’m currently working on [Cross Chain Defi AI Aggregator on Solana](https://github.com/timus999/solana_ai_defi_aggregator)
+- 🔭 I’m currently working my own operating system - rusty_os.
 
-- 🌱 I’m currently learning **Blockchain, solana, cryptography etc..**
+- 🌱 I’m currently learning **Cybersecurity, cryptography, system programming**
 
 - 📫 How to reach me **timuskuwor@gmail.com**
 
